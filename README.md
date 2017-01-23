@@ -1,3 +1,16 @@
+##Workflow of this Repository
+
+1. [Data Prep](https://github.com/dinicholson/data-scientist-exercise01/tree/master/data%20prep)
+2. Partition
+3. [Exploration](https://github.com/dinicholson/data-scientist-exercise01/tree/master/exploration)
+4. Modeling (with Validation)
+5. Brief
+
+A full python script is here.
+
+
+
+
 ## RTI CDS Analytics Exercise 01
 
 Welcome to Exercise 01. This exercise provides a small SQLite database with some data derived from the 1996 US Census and a few analytic questions related to working with SQL and open source analysis packages.
