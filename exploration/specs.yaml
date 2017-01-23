@@ -1,25 +1,23 @@
 DataFilePath:
-    ..\\..\\..\\Data\\Common\\UCI_Income\\train
+    ..\\partition\\train.csv
 HasHeader:
     Yes
 Separator:
     ','
 CategoricalColumns:
     - workclass
-    - education
-    - maritalstatus
+    -education_level
+    - marital_status
     - occupation
-    - relationship
     - race
     - sex
-    - nativecountry
-    - label_IsOver50K
+    - country
+    - over_50k
 NumericalColumns:
     - age 
-    - fnlwgt
-    - educationnum
-    - capitalgain
-    - capitalloss
-    - hoursperweek
+    - education_num
+    - capital_gain
+    - capital_loss
+    - hours_week
 Target:
-    label_IsOver50K
+    over_50K
