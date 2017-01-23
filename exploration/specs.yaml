@@ -6,7 +6,7 @@ Separator:
     ','
 CategoricalColumns:
     - workclass
-    -education_level
+    - education_level
     - marital_status
     - occupation
     - race
@@ -20,4 +20,4 @@ NumericalColumns:
     - capital_loss
     - hours_week
 Target:
-    over_50K
+    over_50k
