@@ -14,7 +14,7 @@ Separator:
     ','
 CategoricalColumns:
     - workclass
-    -education_level
+    - education_level
     - marital_status
     - occupation
     - race
