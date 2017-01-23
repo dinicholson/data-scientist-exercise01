@@ -8,7 +8,7 @@ The `specs.yaml` file points to the data in the data prep folder. It specifies d
 
 ```yaml
 DataFilePath:
-    ..\\data prep\\exercise01_flat.csv
+    ..\\partition\\train.csv
 HasHeader:
     Yes
 Separator:
