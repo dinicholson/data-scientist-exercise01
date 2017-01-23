@@ -1,3 +1,6 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dinicholson/data-scientist-exercise01)
+
+
 ##Workflow of this Repository
 
 1. [Data Prep](https://github.com/dinicholson/data-scientist-exercise01/tree/master/data%20prep)
