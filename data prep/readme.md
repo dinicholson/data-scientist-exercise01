@@ -1,4 +1,6 @@
 
+`data prep.ipynb` walks through database retrieval and prep
+
 ####SQL query for quick reference (flatten/join Census data)
 ```sql
 SELECT r.id, r.age, r.workclass_id, r.education_level_id, r.education_num, r.marital_status_id, r.occupation_id,
