@@ -9,7 +9,7 @@
 4. [Modeling (with Validation)](https://github.com/dinicholson/data-scientist-exercise01/tree/master/modeling)
 5. Brief
 
-A full python script is here.
+An abbreviated prep-to-model python script is here.
 
 
 
