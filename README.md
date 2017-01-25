@@ -7,7 +7,7 @@
 2. [Partition](https://github.com/dinicholson/data-scientist-exercise01/tree/master/partition)
 3. [Exploration](https://github.com/dinicholson/data-scientist-exercise01/tree/master/exploration)
 4. [Modeling (with Validation)](https://github.com/dinicholson/data-scientist-exercise01/tree/master/modeling)
-5. Brief
+5. Brief Summary
 
 An abbreviated prep-to-model python script is here.
 
