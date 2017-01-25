@@ -14,7 +14,7 @@ Partitioning was completed before exploration, as some of the interactive visual
 
 Be sure to change file paths in the global settings in the `Exploration.ipynb` file.
 
-The `specs.yaml` file which itself points to the training data. It specifies delimiters of the input data, variable types, the target, etc. It looks like this:
+The `specs.yaml` file points to the training data. It specifies delimiters of the input data, variable types, the target, etc. It looks like this:
 
 ```yaml
 DataFilePath:
