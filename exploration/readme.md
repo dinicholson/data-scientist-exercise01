@@ -10,7 +10,7 @@ This open source data exploration utility is borrowed from Microsoft's TDSP Team
 Partitioning was completed before exploration, as some of the interactive visualizations explore relationships to the target variable. To avoid introducing bias, only the training set was used for exploration. 
 
 
-####If you fork and clone this repo to run the interactive visuals locally...
+###If you fork and clone this repo to run the interactive visuals locally...
 
 Be sure to change file paths in the global settings in the `Exploration.ipynb` file.
 
