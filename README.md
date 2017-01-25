@@ -6,7 +6,7 @@
 1. [Data Prep](https://github.com/dinicholson/data-scientist-exercise01/tree/master/data%20prep)
 2. [Partition](https://github.com/dinicholson/data-scientist-exercise01/tree/master/partition)
 3. [Exploration](https://github.com/dinicholson/data-scientist-exercise01/tree/master/exploration)
-4. Modeling (with Validation)
+4. [Modeling (with Validation)](https://github.com/dinicholson/data-scientist-exercise01/tree/master/modeling)
 5. Brief
 
 A full python script is here.
