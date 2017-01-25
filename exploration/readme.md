@@ -1,5 +1,6 @@
-For a quick look at the most relevant visuals and descriptive stats that informed the modeling go here:  
-[Descriptive Stats and Visuals](http://htmlpreview.github.io/?https://github.com/dinicholson/data-scientist-exercise01/blob/master/exploration/Descriptive%20Stats%20and%20Visuals.html)
+###[Descriptive Stats and Visuals](http://htmlpreview.github.io/?https://github.com/dinicholson/data-scientist-exercise01/blob/master/exploration/Descriptive%20Stats%20and%20Visuals.html)
+(For a quick look at the most relevant visuals and descriptive stats that informed the modeling) 
+
 
 
 ###Notes on the Exploratory Reporting Utility
