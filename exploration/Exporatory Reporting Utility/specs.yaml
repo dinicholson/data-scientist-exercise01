@@ -1,5 +1,5 @@
 DataFilePath:
-    ..\\partition\\train.csv
+    ..\\..\\partition\\train.csv
 HasHeader:
     Yes
 Separator:
