@@ -1,5 +1,5 @@
 
-`data prep.ipynb` walks through database retrieval and prep
+`data prep.ipynb` walks through database retrieval
 
 ####SQL query for quick reference (flatten/join Census data)
 ```sql
