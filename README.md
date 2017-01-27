@@ -1,12 +1,17 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dinicholson/data-scientist-exercise01)
-
 
 ##Workflow of this Repository
 
 1. [Data Prep](https://github.com/dinicholson/data-scientist-exercise01/tree/master/data%20prep)
 2. [Partition](https://github.com/dinicholson/data-scientist-exercise01/tree/master/partition)
+  - 60/30/10 split of train/valid/test
 3. [Exploration & Visuals](https://github.com/dinicholson/data-scientist-exercise01/tree/master/exploration)
+  - descriptives
+  - target event rate
+  - x to y relationships
+  - x var correlations
+  - etc.
 4. [Modeling](https://github.com/dinicholson/data-scientist-exercise01/tree/master/modeling)
+  - logistic regression
 5. Brief Summary
 
 An abbreviated prep-to-model python script is here.
