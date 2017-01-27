@@ -12,7 +12,7 @@
   - etc.
 4. [Modeling](https://github.com/dinicholson/data-scientist-exercise01/tree/master/modeling)
   - logistic regression
-5. Brief Summary
+5. [Brief Summary](https://github.com/dinicholson/data-scientist-exercise01/tree/master/summary)
 
 An abbreviated prep-to-model python script is here.
 
