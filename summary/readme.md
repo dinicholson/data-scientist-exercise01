@@ -6,23 +6,23 @@ A total of 13 features were explored relating to the demographic makeup of indiv
 ###Exploration 
 The visualization below plots age against hours per week while delineating target events (green for over $50k and blue for under $50k). Intuitively, it reveals where we might find individuals making more than $50k per year: between 25 and 55 years of age and between 35 and 60 hours worked. Individuals working more than 50 hours per week make more than $50k at a rate of 43% (compared to rate of 24% for the entire sample). 
 
-![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/Brief/charts/age_hrsWorked_target.PNG)
+![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/summary/visuals/age_hrsWorked_target.PNG)
 
 The clustering of individuals at 40, 45, 50, and 60 hour work weeks is likely do to self-reporting approximate hours--these workers also appear to take home higher incomes. This insight informed the addition of new variable that bins hours worked per week according to these commonly reported values, though it’s not as predictive as the raw variable. Provided that the data is available, an interesting follow up might be to investigate the likelihood that the individuals reporting weekly hours at these “round” values are salaried, and whether being salaried (as compared to hourly) is predictive of higher incomes.  
 
 Education is one of the most telling variables in the model. As visualized below, there are stark contrasts in one’s likelihood to make more than $50k across education levels. 
 
-![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/Brief/charts/education_vs_target.PNG)
+![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/summary/visuals/education_vs_target.PNG)
 
-Here is an overall look at the features available for prediction and their linear relationship to the target variable (making over $50k).
+Here is an overall look at the ranking of features available for prediction in terms of their linear relationship to the target variable (making over $50k).
 
-![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/Brief/charts/ranked_variables.PNG)
+![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/summary/visuals/ranked_variables.PNG)
 
 ###Results & Takeaways
 
 While the final model provides a classification accuracy of 85.4%, there is room to drop variables if a simpler model is desired. The variables working class, sex, and binned hrs/week can be left out of the set of predictors with very small reductions in predictive accuracy.
 
-In looking at the model parameters, marital status shows some of the largest effects. For example those who are married are much likelier to have an income greater than $50k, compared to those who are single, separated, widowed, or divorced. Individuals working as tech support, specialist professionals, and executives are also likelier to earn more than 50k than individuals working in other occupations, holding all else constant. Gender shows a small effect--men are 1.15 times as likely to make over 50k compared to women all else being constant.
+In looking at the model parameters, marital status shows some of the largest effects. For example those who are married are much likelier to have an income greater than $50k, compared to those who are single, separated, widowed, or divorced. Individuals working as tech support, specialist professionals, and executives are also likelier to earn more than 50k than individuals working in other occupations, holding all else constant. Gender shows a small effect--men are 1.15 times as likely to make over 50k compared to women, all else being constant.
 
 Of the categorical variables, education represents the largest effect. All else held constant, for each one unit increase in the level of education (i.e. from bachelor’s to master’s), the odds that an individual will earn more than $50k increases by 1.29.
 
@@ -83,7 +83,7 @@ No. of Parameters: 39
 
 
 
-![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/Brief/charts/roc_curve.PNG)
+![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/summary/visuals/roc_curve.PNG)
 
 
 
