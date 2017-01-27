@@ -1,4 +1,4 @@
-[Descriptive Stats and Visuals](http://htmlpreview.github.io/?https://github.com/dinicholson/data-scientist-exercise01/blob/master/exploration/Descriptive%20Stats%20and%20Visuals.html)
+[Descriptive Stats and Visuals](https://htmlpreview.github.io/?https://github.com/dinicholson/data-scientist-exercise01/blob/master/exploration/Exporatory%20Reporting%20Utility/Descriptive%20Stats%20and%20Visuals.html)
 (html version of the python notebook for a quick look at the most relevant visuals that informed the modeling) 
 
 
