@@ -5,7 +5,7 @@
 
 ###Notes on the Exploratory Reporting Utility
 
-This open source data exploration utility is borrowed from Microsoft's TDSP Team. Truly an awesome tool--I'm currently using it for our IAA practicum project. The Jupyter notebook `Exploration.ipynb` will build interative visuals that explore that explore simple stats, relationships between predictors, and relationships between predictors and the target. For detailed documentation see here: https://github.com/Azure/Azure-TDSP-Utilities. (In order to use the visuals interactively, you'll have to fork and clone this repository and run the notebook).
+This open source data exploration utility is borrowed from Microsoft's TDSP Team. Truly an awesome tool--I'm currently using it for our IAA practicum project. The Jupyter notebook `Exploratory Reporting Utility/Exploration.ipynb` will build interative visuals that explore that explore simple stats, relationships between predictors, and relationships between predictors and the target. For detailed documentation see here: https://github.com/Azure/Azure-TDSP-Utilities. (In order to use the visuals interactively, you'll have to fork and clone this repository and run the notebook).
 
 Partitioning was completed before exploration, as some of the interactive visualizations explore relationships to the target variable. To avoid introducing bias, only the training set was used for exploration. 
 
