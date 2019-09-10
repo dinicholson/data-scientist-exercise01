@@ -1,9 +1,9 @@
 # Model Summary
 
-###Overview
+### Overview
 A total of 13 features were explored relating to the demographic makeup of individuals in the census sample data (n=48,841). Using 10 variables, the final model classifies individuals as having an income greater or less than $50,000 with an accuracy of 85.4%. 
 
-###Exploration 
+### Exploration 
 The visualization below plots age against hours per week while delineating target events (green for over $50k and blue for under $50k). Intuitively, it reveals where we might find individuals making more than $50k per year: between 25 and 55 years of age and between 35 and 60 hours worked. Individuals working more than 50 hours per week make more than $50k at a rate of 43% (compared to rate of 24% for the entire sample). 
 
 ![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/summary/visuals/age_hrsWorked_target.PNG)
@@ -18,7 +18,7 @@ Here is an overall look at the ranking of features available for prediction in t
 
 ![alt text](https://github.com/dinicholson/data-scientist-exercise01/blob/master/summary/visuals/ranked_variables.PNG)
 
-###Results & Takeaways
+### Results & Takeaways
 
 While the final model provides a classification accuracy of 85.4%, there is room to drop variables if a simpler model is desired. The variables working class, sex, and binned hrs/week can be left out of the set of predictors with very small reductions in predictive accuracy.
 
@@ -28,7 +28,7 @@ Of the categorical variables, education represents the largest effect. All else 
 
 
 
-###Appendix
+### Appendix
 
 
 __Final Model__  
