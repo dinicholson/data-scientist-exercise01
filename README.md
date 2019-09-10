@@ -1,5 +1,5 @@
 
-##Workflow of this Repository
+## Workflow of this Repository
 
 1. [Data Prep](https://github.com/dinicholson/data-scientist-exercise01/tree/master/data%20prep)
 2. [Partition](https://github.com/dinicholson/data-scientist-exercise01/tree/master/partition)
